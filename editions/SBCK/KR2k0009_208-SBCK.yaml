@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2k0009/SBCK/v1/juan/208
+seq: 208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0009_SBCK_208-1a}
+metadata:
+  title: 大淸一統志
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 00:15:12.032345'
+  source:
+    repository: kanripo
+    path: KR2k0009/KR2k0009_208.txt
+hash: sha256:a3f881dcdd77c9e32d25ccc2a0aec0e1dcd1925229f7bc73dd78b82e78fceb80

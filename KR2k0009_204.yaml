@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2k0009/krp/v1/juan/204
+seq: 204
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0009_SBCK_204-1a}
+metadata:
+  title: 大淸一統志
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 00:15:12.032345'
+  source:
+    repository: kanripo
+    path: KR2k0009/KR2k0009_204.txt
+hash: sha256:ee1cd8c658f7a1ab1111069cfa206b70ba30da1a45a8cf32be0c6ebfae1dc6ba
