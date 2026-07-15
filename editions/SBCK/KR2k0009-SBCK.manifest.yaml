@@ -439,843 +439,2103 @@ assets:
   - {seq: 209, role: markers, filename: assets/KR2k0009_209-SBCK.markers.yaml, hash: 'sha256:cc456f4af9effece290fcb2a3ddbe7ab130426cc5a326a0e877deaa7a25a627c'}
   - {seq: 210, role: markers, filename: assets/KR2k0009_210-SBCK.markers.yaml, hash: 'sha256:9a24594f5478a0e8a05fbcfec1a0d5a409cba8ba42c1131cc9b75ce267bb904c'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR2k0009_SBCK_001-1a, span: [body, 0, 7578]}
+- ref:
+    seq: 1
+    marker_id: KR2k0009_SBCK_001-1a
+    span:
+    - body
+    - 0
+    - 7578
   label: juan 001
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR2k0009_SBCK_002-1a, span: [body, 0, 33660]}
+- ref:
+    seq: 2
+    marker_id: KR2k0009_SBCK_002-1a
+    span:
+    - body
+    - 0
+    - 33660
   label: juan 002
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR2k0009_SBCK_003-1a, span: [body, 0, 23041]}
+- ref:
+    seq: 3
+    marker_id: KR2k0009_SBCK_003-1a
+    span:
+    - body
+    - 0
+    - 23041
   label: juan 003
   type: section
   level: 1
-- ref: {seq: 4, marker_id: KR2k0009_SBCK_004-1a, span: [body, 0, 40207]}
+- ref:
+    seq: 4
+    marker_id: KR2k0009_SBCK_004-1a
+    span:
+    - body
+    - 0
+    - 40207
   label: juan 004
   type: section
   level: 1
-- ref: {seq: 5, marker_id: KR2k0009_SBCK_005-1a, span: [body, 0, 54029]}
+- ref:
+    seq: 5
+    marker_id: KR2k0009_SBCK_005-1a
+    span:
+    - body
+    - 0
+    - 54029
   label: juan 005
   type: section
   level: 1
-- ref: {seq: 6, marker_id: KR2k0009_SBCK_006-1a, span: [body, 0, 38330]}
+- ref:
+    seq: 6
+    marker_id: KR2k0009_SBCK_006-1a
+    span:
+    - body
+    - 0
+    - 38330
   label: juan 006
   type: section
   level: 1
-- ref: {seq: 7, marker_id: KR2k0009_SBCK_007-1a, span: [body, 0, 45319]}
+- ref:
+    seq: 7
+    marker_id: KR2k0009_SBCK_007-1a
+    span:
+    - body
+    - 0
+    - 45319
   label: juan 007
   type: section
   level: 1
-- ref: {seq: 8, marker_id: KR2k0009_SBCK_008-1a, span: [body, 0, 37030]}
+- ref:
+    seq: 8
+    marker_id: KR2k0009_SBCK_008-1a
+    span:
+    - body
+    - 0
+    - 37030
   label: juan 008
   type: section
   level: 1
-- ref: {seq: 9, marker_id: KR2k0009_SBCK_009-1a, span: [body, 0, 41512]}
+- ref:
+    seq: 9
+    marker_id: KR2k0009_SBCK_009-1a
+    span:
+    - body
+    - 0
+    - 41512
   label: juan 009
   type: section
   level: 1
-- ref: {seq: 10, marker_id: KR2k0009_SBCK_010-1a, span: [body, 0, 45068]}
+- ref:
+    seq: 10
+    marker_id: KR2k0009_SBCK_010-1a
+    span:
+    - body
+    - 0
+    - 45068
   label: juan 010
   type: section
   level: 1
-- ref: {seq: 11, marker_id: KR2k0009_SBCK_011-1a, span: [body, 0, 42250]}
+- ref:
+    seq: 11
+    marker_id: KR2k0009_SBCK_011-1a
+    span:
+    - body
+    - 0
+    - 42250
   label: juan 011
   type: section
   level: 1
-- ref: {seq: 12, marker_id: KR2k0009_SBCK_012-1a, span: [body, 0, 38880]}
+- ref:
+    seq: 12
+    marker_id: KR2k0009_SBCK_012-1a
+    span:
+    - body
+    - 0
+    - 38880
   label: juan 012
   type: section
   level: 1
-- ref: {seq: 13, marker_id: KR2k0009_SBCK_013-1a, span: [body, 0, 37621]}
+- ref:
+    seq: 13
+    marker_id: KR2k0009_SBCK_013-1a
+    span:
+    - body
+    - 0
+    - 37621
   label: juan 013
   type: section
   level: 1
-- ref: {seq: 14, marker_id: KR2k0009_SBCK_014-1a, span: [body, 0, 37851]}
+- ref:
+    seq: 14
+    marker_id: KR2k0009_SBCK_014-1a
+    span:
+    - body
+    - 0
+    - 37851
   label: juan 014
   type: section
   level: 1
-- ref: {seq: 15, marker_id: KR2k0009_SBCK_015-1a, span: [body, 0, 27008]}
+- ref:
+    seq: 15
+    marker_id: KR2k0009_SBCK_015-1a
+    span:
+    - body
+    - 0
+    - 27008
   label: juan 015
   type: section
   level: 1
-- ref: {seq: 16, marker_id: KR2k0009_SBCK_016-1a, span: [body, 0, 34101]}
+- ref:
+    seq: 16
+    marker_id: KR2k0009_SBCK_016-1a
+    span:
+    - body
+    - 0
+    - 34101
   label: juan 016
   type: section
   level: 1
-- ref: {seq: 17, marker_id: KR2k0009_SBCK_017-1a, span: [body, 0, 26036]}
+- ref:
+    seq: 17
+    marker_id: KR2k0009_SBCK_017-1a
+    span:
+    - body
+    - 0
+    - 26036
   label: juan 017
   type: section
   level: 1
-- ref: {seq: 18, marker_id: KR2k0009_SBCK_018-1a, span: [body, 0, 27950]}
+- ref:
+    seq: 18
+    marker_id: KR2k0009_SBCK_018-1a
+    span:
+    - body
+    - 0
+    - 27950
   label: juan 018
   type: section
   level: 1
-- ref: {seq: 19, marker_id: KR2k0009_SBCK_019-1a, span: [body, 0, 36121]}
+- ref:
+    seq: 19
+    marker_id: KR2k0009_SBCK_019-1a
+    span:
+    - body
+    - 0
+    - 36121
   label: juan 019
   type: section
   level: 1
-- ref: {seq: 20, marker_id: KR2k0009_SBCK_020-1a, span: [body, 0, 45802]}
+- ref:
+    seq: 20
+    marker_id: KR2k0009_SBCK_020-1a
+    span:
+    - body
+    - 0
+    - 45802
   label: juan 020
   type: section
   level: 1
-- ref: {seq: 21, marker_id: KR2k0009_SBCK_021-1a, span: [body, 0, 48327]}
+- ref:
+    seq: 21
+    marker_id: KR2k0009_SBCK_021-1a
+    span:
+    - body
+    - 0
+    - 48327
   label: juan 021
   type: section
   level: 1
-- ref: {seq: 22, marker_id: KR2k0009_SBCK_022-1a, span: [body, 0, 51300]}
+- ref:
+    seq: 22
+    marker_id: KR2k0009_SBCK_022-1a
+    span:
+    - body
+    - 0
+    - 51300
   label: juan 022
   type: section
   level: 1
-- ref: {seq: 23, marker_id: KR2k0009_SBCK_023-1a, span: [body, 0, 49891]}
+- ref:
+    seq: 23
+    marker_id: KR2k0009_SBCK_023-1a
+    span:
+    - body
+    - 0
+    - 49891
   label: juan 023
   type: section
   level: 1
-- ref: {seq: 24, marker_id: KR2k0009_SBCK_024-1a, span: [body, 0, 43836]}
+- ref:
+    seq: 24
+    marker_id: KR2k0009_SBCK_024-1a
+    span:
+    - body
+    - 0
+    - 43836
   label: juan 024
   type: section
   level: 1
-- ref: {seq: 25, marker_id: KR2k0009_SBCK_025-1a, span: [body, 0, 39885]}
+- ref:
+    seq: 25
+    marker_id: KR2k0009_SBCK_025-1a
+    span:
+    - body
+    - 0
+    - 39885
   label: juan 025
   type: section
   level: 1
-- ref: {seq: 26, marker_id: KR2k0009_SBCK_026-1a, span: [body, 0, 38113]}
+- ref:
+    seq: 26
+    marker_id: KR2k0009_SBCK_026-1a
+    span:
+    - body
+    - 0
+    - 38113
   label: juan 026
   type: section
   level: 1
-- ref: {seq: 27, marker_id: KR2k0009_SBCK_027-1a, span: [body, 0, 42531]}
+- ref:
+    seq: 27
+    marker_id: KR2k0009_SBCK_027-1a
+    span:
+    - body
+    - 0
+    - 42531
   label: juan 027
   type: section
   level: 1
-- ref: {seq: 28, marker_id: KR2k0009_SBCK_028-1a, span: [body, 0, 40058]}
+- ref:
+    seq: 28
+    marker_id: KR2k0009_SBCK_028-1a
+    span:
+    - body
+    - 0
+    - 40058
   label: juan 028
   type: section
   level: 1
-- ref: {seq: 29, marker_id: KR2k0009_SBCK_029-1a, span: [body, 0, 53105]}
+- ref:
+    seq: 29
+    marker_id: KR2k0009_SBCK_029-1a
+    span:
+    - body
+    - 0
+    - 53105
   label: juan 029
   type: section
   level: 1
-- ref: {seq: 30, marker_id: KR2k0009_SBCK_030-1a, span: [body, 0, 40196]}
+- ref:
+    seq: 30
+    marker_id: KR2k0009_SBCK_030-1a
+    span:
+    - body
+    - 0
+    - 40196
   label: juan 030
   type: section
   level: 1
-- ref: {seq: 31, marker_id: KR2k0009_SBCK_031-1a, span: [body, 0, 50678]}
+- ref:
+    seq: 31
+    marker_id: KR2k0009_SBCK_031-1a
+    span:
+    - body
+    - 0
+    - 50678
   label: juan 031
   type: section
   level: 1
-- ref: {seq: 32, marker_id: KR2k0009_SBCK_032-1a, span: [body, 0, 44431]}
+- ref:
+    seq: 32
+    marker_id: KR2k0009_SBCK_032-1a
+    span:
+    - body
+    - 0
+    - 44431
   label: juan 032
   type: section
   level: 1
-- ref: {seq: 33, marker_id: KR2k0009_SBCK_033-1a, span: [body, 0, 42699]}
+- ref:
+    seq: 33
+    marker_id: KR2k0009_SBCK_033-1a
+    span:
+    - body
+    - 0
+    - 42699
   label: juan 033
   type: section
   level: 1
-- ref: {seq: 34, marker_id: KR2k0009_SBCK_034-1a, span: [body, 0, 43158]}
+- ref:
+    seq: 34
+    marker_id: KR2k0009_SBCK_034-1a
+    span:
+    - body
+    - 0
+    - 43158
   label: juan 034
   type: section
   level: 1
-- ref: {seq: 35, marker_id: KR2k0009_SBCK_035-1a, span: [body, 0, 28384]}
+- ref:
+    seq: 35
+    marker_id: KR2k0009_SBCK_035-1a
+    span:
+    - body
+    - 0
+    - 28384
   label: juan 035
   type: section
   level: 1
-- ref: {seq: 36, marker_id: KR2k0009_SBCK_036-1a, span: [body, 0, 36034]}
+- ref:
+    seq: 36
+    marker_id: KR2k0009_SBCK_036-1a
+    span:
+    - body
+    - 0
+    - 36034
   label: juan 036
   type: section
   level: 1
-- ref: {seq: 37, marker_id: KR2k0009_SBCK_037-1a, span: [body, 0, 33259]}
+- ref:
+    seq: 37
+    marker_id: KR2k0009_SBCK_037-1a
+    span:
+    - body
+    - 0
+    - 33259
   label: juan 037
   type: section
   level: 1
-- ref: {seq: 38, marker_id: KR2k0009_SBCK_038-1a, span: [body, 0, 38474]}
+- ref:
+    seq: 38
+    marker_id: KR2k0009_SBCK_038-1a
+    span:
+    - body
+    - 0
+    - 38474
   label: juan 038
   type: section
   level: 1
-- ref: {seq: 39, marker_id: KR2k0009_SBCK_039-1a, span: [body, 0, 38137]}
+- ref:
+    seq: 39
+    marker_id: KR2k0009_SBCK_039-1a
+    span:
+    - body
+    - 0
+    - 38137
   label: juan 039
   type: section
   level: 1
-- ref: {seq: 40, marker_id: KR2k0009_SBCK_040-1a, span: [body, 0, 44120]}
+- ref:
+    seq: 40
+    marker_id: KR2k0009_SBCK_040-1a
+    span:
+    - body
+    - 0
+    - 44120
   label: juan 040
   type: section
   level: 1
-- ref: {seq: 41, marker_id: KR2k0009_SBCK_041-1a, span: [body, 0, 42750]}
+- ref:
+    seq: 41
+    marker_id: KR2k0009_SBCK_041-1a
+    span:
+    - body
+    - 0
+    - 42750
   label: juan 041
   type: section
   level: 1
-- ref: {seq: 42, marker_id: KR2k0009_SBCK_042-1a, span: [body, 0, 44536]}
+- ref:
+    seq: 42
+    marker_id: KR2k0009_SBCK_042-1a
+    span:
+    - body
+    - 0
+    - 44536
   label: juan 042
   type: section
   level: 1
-- ref: {seq: 43, marker_id: KR2k0009_SBCK_043-1a, span: [body, 0, 47201]}
+- ref:
+    seq: 43
+    marker_id: KR2k0009_SBCK_043-1a
+    span:
+    - body
+    - 0
+    - 47201
   label: juan 043
   type: section
   level: 1
-- ref: {seq: 44, marker_id: KR2k0009_SBCK_044-1a, span: [body, 0, 36946]}
+- ref:
+    seq: 44
+    marker_id: KR2k0009_SBCK_044-1a
+    span:
+    - body
+    - 0
+    - 36946
   label: juan 044
   type: section
   level: 1
-- ref: {seq: 45, marker_id: KR2k0009_SBCK_045-1a, span: [body, 0, 31234]}
+- ref:
+    seq: 45
+    marker_id: KR2k0009_SBCK_045-1a
+    span:
+    - body
+    - 0
+    - 31234
   label: juan 045
   type: section
   level: 1
-- ref: {seq: 46, marker_id: KR2k0009_SBCK_046-1a, span: [body, 0, 40304]}
+- ref:
+    seq: 46
+    marker_id: KR2k0009_SBCK_046-1a
+    span:
+    - body
+    - 0
+    - 40304
   label: juan 046
   type: section
   level: 1
-- ref: {seq: 47, marker_id: KR2k0009_SBCK_047-1a, span: [body, 0, 50673]}
+- ref:
+    seq: 47
+    marker_id: KR2k0009_SBCK_047-1a
+    span:
+    - body
+    - 0
+    - 50673
   label: juan 047
   type: section
   level: 1
-- ref: {seq: 48, marker_id: KR2k0009_SBCK_048-1a, span: [body, 0, 33630]}
+- ref:
+    seq: 48
+    marker_id: KR2k0009_SBCK_048-1a
+    span:
+    - body
+    - 0
+    - 33630
   label: juan 048
   type: section
   level: 1
-- ref: {seq: 49, marker_id: KR2k0009_SBCK_049-1a, span: [body, 0, 47933]}
+- ref:
+    seq: 49
+    marker_id: KR2k0009_SBCK_049-1a
+    span:
+    - body
+    - 0
+    - 47933
   label: juan 049
   type: section
   level: 1
-- ref: {seq: 50, marker_id: KR2k0009_SBCK_050-1a, span: [body, 0, 51729]}
+- ref:
+    seq: 50
+    marker_id: KR2k0009_SBCK_050-1a
+    span:
+    - body
+    - 0
+    - 51729
   label: juan 050
   type: section
   level: 1
-- ref: {seq: 51, marker_id: KR2k0009_SBCK_051-1a, span: [body, 0, 40787]}
+- ref:
+    seq: 51
+    marker_id: KR2k0009_SBCK_051-1a
+    span:
+    - body
+    - 0
+    - 40787
   label: juan 051
   type: section
   level: 1
-- ref: {seq: 52, marker_id: KR2k0009_SBCK_052-1a, span: [body, 0, 38002]}
+- ref:
+    seq: 52
+    marker_id: KR2k0009_SBCK_052-1a
+    span:
+    - body
+    - 0
+    - 38002
   label: juan 052
   type: section
   level: 1
-- ref: {seq: 53, marker_id: KR2k0009_SBCK_053-1a, span: [body, 0, 33604]}
+- ref:
+    seq: 53
+    marker_id: KR2k0009_SBCK_053-1a
+    span:
+    - body
+    - 0
+    - 33604
   label: juan 053
   type: section
   level: 1
-- ref: {seq: 54, marker_id: KR2k0009_SBCK_054-1a, span: [body, 0, 39072]}
+- ref:
+    seq: 54
+    marker_id: KR2k0009_SBCK_054-1a
+    span:
+    - body
+    - 0
+    - 39072
   label: juan 054
   type: section
   level: 1
-- ref: {seq: 55, marker_id: KR2k0009_SBCK_055-1a, span: [body, 0, 41199]}
+- ref:
+    seq: 55
+    marker_id: KR2k0009_SBCK_055-1a
+    span:
+    - body
+    - 0
+    - 41199
   label: juan 055
   type: section
   level: 1
-- ref: {seq: 56, marker_id: KR2k0009_SBCK_056-1a, span: [body, 0, 32013]}
+- ref:
+    seq: 56
+    marker_id: KR2k0009_SBCK_056-1a
+    span:
+    - body
+    - 0
+    - 32013
   label: juan 056
   type: section
   level: 1
-- ref: {seq: 57, marker_id: KR2k0009_SBCK_057-1a, span: [body, 0, 34406]}
+- ref:
+    seq: 57
+    marker_id: KR2k0009_SBCK_057-1a
+    span:
+    - body
+    - 0
+    - 34406
   label: juan 057
   type: section
   level: 1
-- ref: {seq: 58, marker_id: KR2k0009_SBCK_058-1a, span: [body, 0, 37386]}
+- ref:
+    seq: 58
+    marker_id: KR2k0009_SBCK_058-1a
+    span:
+    - body
+    - 0
+    - 37386
   label: juan 058
   type: section
   level: 1
-- ref: {seq: 59, marker_id: KR2k0009_SBCK_059-1a, span: [body, 0, 37386]}
+- ref:
+    seq: 59
+    marker_id: KR2k0009_SBCK_059-1a
+    span:
+    - body
+    - 0
+    - 37386
   label: juan 059
   type: section
   level: 1
-- ref: {seq: 60, marker_id: KR2k0009_SBCK_060-1a, span: [body, 0, 46426]}
+- ref:
+    seq: 60
+    marker_id: KR2k0009_SBCK_060-1a
+    span:
+    - body
+    - 0
+    - 46426
   label: juan 060
   type: section
   level: 1
-- ref: {seq: 61, marker_id: KR2k0009_SBCK_061-1a, span: [body, 0, 36832]}
+- ref:
+    seq: 61
+    marker_id: KR2k0009_SBCK_061-1a
+    span:
+    - body
+    - 0
+    - 36832
   label: juan 061
   type: section
   level: 1
-- ref: {seq: 62, marker_id: KR2k0009_SBCK_062-1a, span: [body, 0, 48813]}
+- ref:
+    seq: 62
+    marker_id: KR2k0009_SBCK_062-1a
+    span:
+    - body
+    - 0
+    - 48813
   label: juan 062
   type: section
   level: 1
-- ref: {seq: 63, marker_id: KR2k0009_SBCK_063-1a, span: [body, 0, 29959]}
+- ref:
+    seq: 63
+    marker_id: KR2k0009_SBCK_063-1a
+    span:
+    - body
+    - 0
+    - 29959
   label: juan 063
   type: section
   level: 1
-- ref: {seq: 64, marker_id: KR2k0009_SBCK_064-1a, span: [body, 0, 37186]}
+- ref:
+    seq: 64
+    marker_id: KR2k0009_SBCK_064-1a
+    span:
+    - body
+    - 0
+    - 37186
   label: juan 064
   type: section
   level: 1
-- ref: {seq: 65, marker_id: KR2k0009_SBCK_065-1a, span: [body, 0, 56053]}
+- ref:
+    seq: 65
+    marker_id: KR2k0009_SBCK_065-1a
+    span:
+    - body
+    - 0
+    - 56053
   label: juan 065
   type: section
   level: 1
-- ref: {seq: 66, marker_id: KR2k0009_SBCK_066-1a, span: [body, 0, 40869]}
+- ref:
+    seq: 66
+    marker_id: KR2k0009_SBCK_066-1a
+    span:
+    - body
+    - 0
+    - 40869
   label: juan 066
   type: section
   level: 1
-- ref: {seq: 67, marker_id: KR2k0009_SBCK_067-1a, span: [body, 0, 27810]}
+- ref:
+    seq: 67
+    marker_id: KR2k0009_SBCK_067-1a
+    span:
+    - body
+    - 0
+    - 27810
   label: juan 067
   type: section
   level: 1
-- ref: {seq: 68, marker_id: KR2k0009_SBCK_068-1a, span: [body, 0, 45370]}
+- ref:
+    seq: 68
+    marker_id: KR2k0009_SBCK_068-1a
+    span:
+    - body
+    - 0
+    - 45370
   label: juan 068
   type: section
   level: 1
-- ref: {seq: 69, marker_id: KR2k0009_SBCK_069-1a, span: [body, 0, 43273]}
+- ref:
+    seq: 69
+    marker_id: KR2k0009_SBCK_069-1a
+    span:
+    - body
+    - 0
+    - 43273
   label: juan 069
   type: section
   level: 1
-- ref: {seq: 70, marker_id: KR2k0009_SBCK_070-1a, span: [body, 0, 50768]}
+- ref:
+    seq: 70
+    marker_id: KR2k0009_SBCK_070-1a
+    span:
+    - body
+    - 0
+    - 50768
   label: juan 070
   type: section
   level: 1
-- ref: {seq: 71, marker_id: KR2k0009_SBCK_071-1a, span: [body, 0, 42330]}
+- ref:
+    seq: 71
+    marker_id: KR2k0009_SBCK_071-1a
+    span:
+    - body
+    - 0
+    - 42330
   label: juan 071
   type: section
   level: 1
-- ref: {seq: 72, marker_id: KR2k0009_SBCK_072-1a, span: [body, 0, 38235]}
+- ref:
+    seq: 72
+    marker_id: KR2k0009_SBCK_072-1a
+    span:
+    - body
+    - 0
+    - 38235
   label: juan 072
   type: section
   level: 1
-- ref: {seq: 73, marker_id: KR2k0009_SBCK_073-1a, span: [body, 0, 40333]}
+- ref:
+    seq: 73
+    marker_id: KR2k0009_SBCK_073-1a
+    span:
+    - body
+    - 0
+    - 40333
   label: juan 073
   type: section
   level: 1
-- ref: {seq: 74, marker_id: KR2k0009_SBCK_074-1a, span: [body, 0, 43219]}
+- ref:
+    seq: 74
+    marker_id: KR2k0009_SBCK_074-1a
+    span:
+    - body
+    - 0
+    - 43219
   label: juan 074
   type: section
   level: 1
-- ref: {seq: 75, marker_id: KR2k0009_SBCK_075-1a, span: [body, 0, 40510]}
+- ref:
+    seq: 75
+    marker_id: KR2k0009_SBCK_075-1a
+    span:
+    - body
+    - 0
+    - 40510
   label: juan 075
   type: section
   level: 1
-- ref: {seq: 76, marker_id: KR2k0009_SBCK_076-1a, span: [body, 0, 43092]}
+- ref:
+    seq: 76
+    marker_id: KR2k0009_SBCK_076-1a
+    span:
+    - body
+    - 0
+    - 43092
   label: juan 076
   type: section
   level: 1
-- ref: {seq: 77, marker_id: KR2k0009_SBCK_077-1a, span: [body, 0, 35857]}
+- ref:
+    seq: 77
+    marker_id: KR2k0009_SBCK_077-1a
+    span:
+    - body
+    - 0
+    - 35857
   label: juan 077
   type: section
   level: 1
-- ref: {seq: 78, marker_id: KR2k0009_SBCK_078-1a, span: [body, 0, 37030]}
+- ref:
+    seq: 78
+    marker_id: KR2k0009_SBCK_078-1a
+    span:
+    - body
+    - 0
+    - 37030
   label: juan 078
   type: section
   level: 1
-- ref: {seq: 79, marker_id: KR2k0009_SBCK_079-1a, span: [body, 0, 41785]}
+- ref:
+    seq: 79
+    marker_id: KR2k0009_SBCK_079-1a
+    span:
+    - body
+    - 0
+    - 41785
   label: juan 079
   type: section
   level: 1
-- ref: {seq: 80, marker_id: KR2k0009_SBCK_080-1a, span: [body, 0, 37693]}
+- ref:
+    seq: 80
+    marker_id: KR2k0009_SBCK_080-1a
+    span:
+    - body
+    - 0
+    - 37693
   label: juan 080
   type: section
   level: 1
-- ref: {seq: 81, marker_id: KR2k0009_SBCK_081-1a, span: [body, 0, 42113]}
+- ref:
+    seq: 81
+    marker_id: KR2k0009_SBCK_081-1a
+    span:
+    - body
+    - 0
+    - 42113
   label: juan 081
   type: section
   level: 1
-- ref: {seq: 82, marker_id: KR2k0009_SBCK_082-1a, span: [body, 0, 55512]}
+- ref:
+    seq: 82
+    marker_id: KR2k0009_SBCK_082-1a
+    span:
+    - body
+    - 0
+    - 55512
   label: juan 082
   type: section
   level: 1
-- ref: {seq: 83, marker_id: KR2k0009_SBCK_083-1a, span: [body, 0, 47355]}
+- ref:
+    seq: 83
+    marker_id: KR2k0009_SBCK_083-1a
+    span:
+    - body
+    - 0
+    - 47355
   label: juan 083
   type: section
   level: 1
-- ref: {seq: 84, marker_id: KR2k0009_SBCK_084-1a, span: [body, 0, 60854]}
+- ref:
+    seq: 84
+    marker_id: KR2k0009_SBCK_084-1a
+    span:
+    - body
+    - 0
+    - 60854
   label: juan 084
   type: section
   level: 1
-- ref: {seq: 85, marker_id: KR2k0009_SBCK_085-1a, span: [body, 0, 45186]}
+- ref:
+    seq: 85
+    marker_id: KR2k0009_SBCK_085-1a
+    span:
+    - body
+    - 0
+    - 45186
   label: juan 085
   type: section
   level: 1
-- ref: {seq: 86, marker_id: KR2k0009_SBCK_086-1a, span: [body, 0, 34600]}
+- ref:
+    seq: 86
+    marker_id: KR2k0009_SBCK_086-1a
+    span:
+    - body
+    - 0
+    - 34600
   label: juan 086
   type: section
   level: 1
-- ref: {seq: 87, marker_id: KR2k0009_SBCK_087-1a, span: [body, 0, 53622]}
+- ref:
+    seq: 87
+    marker_id: KR2k0009_SBCK_087-1a
+    span:
+    - body
+    - 0
+    - 53622
   label: juan 087
   type: section
   level: 1
-- ref: {seq: 88, marker_id: KR2k0009_SBCK_088-1a, span: [body, 0, 48266]}
+- ref:
+    seq: 88
+    marker_id: KR2k0009_SBCK_088-1a
+    span:
+    - body
+    - 0
+    - 48266
   label: juan 088
   type: section
   level: 1
-- ref: {seq: 89, marker_id: KR2k0009_SBCK_089-1a, span: [body, 0, 38961]}
+- ref:
+    seq: 89
+    marker_id: KR2k0009_SBCK_089-1a
+    span:
+    - body
+    - 0
+    - 38961
   label: juan 089
   type: section
   level: 1
-- ref: {seq: 90, marker_id: KR2k0009_SBCK_090-1a, span: [body, 0, 55837]}
+- ref:
+    seq: 90
+    marker_id: KR2k0009_SBCK_090-1a
+    span:
+    - body
+    - 0
+    - 55837
   label: juan 090
   type: section
   level: 1
-- ref: {seq: 91, marker_id: KR2k0009_SBCK_091-1a, span: [body, 0, 41746]}
+- ref:
+    seq: 91
+    marker_id: KR2k0009_SBCK_091-1a
+    span:
+    - body
+    - 0
+    - 41746
   label: juan 091
   type: section
   level: 1
-- ref: {seq: 92, marker_id: KR2k0009_SBCK_092-1a, span: [body, 0, 30339]}
+- ref:
+    seq: 92
+    marker_id: KR2k0009_SBCK_092-1a
+    span:
+    - body
+    - 0
+    - 30339
   label: juan 092
   type: section
   level: 1
-- ref: {seq: 93, marker_id: KR2k0009_SBCK_093-1a, span: [body, 0, 46414]}
+- ref:
+    seq: 93
+    marker_id: KR2k0009_SBCK_093-1a
+    span:
+    - body
+    - 0
+    - 46414
   label: juan 093
   type: section
   level: 1
-- ref: {seq: 94, marker_id: KR2k0009_SBCK_094-1a, span: [body, 0, 41182]}
+- ref:
+    seq: 94
+    marker_id: KR2k0009_SBCK_094-1a
+    span:
+    - body
+    - 0
+    - 41182
   label: juan 094
   type: section
   level: 1
-- ref: {seq: 95, marker_id: KR2k0009_SBCK_095-1a, span: [body, 0, 48632]}
+- ref:
+    seq: 95
+    marker_id: KR2k0009_SBCK_095-1a
+    span:
+    - body
+    - 0
+    - 48632
   label: juan 095
   type: section
   level: 1
-- ref: {seq: 96, marker_id: KR2k0009_SBCK_096-1a, span: [body, 0, 36851]}
+- ref:
+    seq: 96
+    marker_id: KR2k0009_SBCK_096-1a
+    span:
+    - body
+    - 0
+    - 36851
   label: juan 096
   type: section
   level: 1
-- ref: {seq: 97, marker_id: KR2k0009_SBCK_097-1a, span: [body, 0, 33664]}
+- ref:
+    seq: 97
+    marker_id: KR2k0009_SBCK_097-1a
+    span:
+    - body
+    - 0
+    - 33664
   label: juan 097
   type: section
   level: 1
-- ref: {seq: 98, marker_id: KR2k0009_SBCK_098-1a, span: [body, 0, 42192]}
+- ref:
+    seq: 98
+    marker_id: KR2k0009_SBCK_098-1a
+    span:
+    - body
+    - 0
+    - 42192
   label: juan 098
   type: section
   level: 1
-- ref: {seq: 99, marker_id: KR2k0009_SBCK_099-1a, span: [body, 0, 27301]}
+- ref:
+    seq: 99
+    marker_id: KR2k0009_SBCK_099-1a
+    span:
+    - body
+    - 0
+    - 27301
   label: juan 099
   type: section
   level: 1
-- ref: {seq: 100, marker_id: KR2k0009_SBCK_100-1a, span: [body, 0, 44005]}
+- ref:
+    seq: 100
+    marker_id: KR2k0009_SBCK_100-1a
+    span:
+    - body
+    - 0
+    - 44005
   label: juan 100
   type: section
   level: 1
-- ref: {seq: 101, marker_id: KR2k0009_SBCK_101-1a, span: [body, 0, 35763]}
+- ref:
+    seq: 101
+    marker_id: KR2k0009_SBCK_101-1a
+    span:
+    - body
+    - 0
+    - 35763
   label: juan 101
   type: section
   level: 1
-- ref: {seq: 102, marker_id: KR2k0009_SBCK_102-1a, span: [body, 0, 43963]}
+- ref:
+    seq: 102
+    marker_id: KR2k0009_SBCK_102-1a
+    span:
+    - body
+    - 0
+    - 43963
   label: juan 102
   type: section
   level: 1
-- ref: {seq: 103, marker_id: KR2k0009_SBCK_103-1a, span: [body, 0, 45520]}
+- ref:
+    seq: 103
+    marker_id: KR2k0009_SBCK_103-1a
+    span:
+    - body
+    - 0
+    - 45520
   label: juan 103
   type: section
   level: 1
-- ref: {seq: 104, marker_id: KR2k0009_SBCK_104-1a, span: [body, 0, 45586]}
+- ref:
+    seq: 104
+    marker_id: KR2k0009_SBCK_104-1a
+    span:
+    - body
+    - 0
+    - 45586
   label: juan 104
   type: section
   level: 1
-- ref: {seq: 105, marker_id: KR2k0009_SBCK_105-1a, span: [body, 0, 35281]}
+- ref:
+    seq: 105
+    marker_id: KR2k0009_SBCK_105-1a
+    span:
+    - body
+    - 0
+    - 35281
   label: juan 105
   type: section
   level: 1
-- ref: {seq: 106, marker_id: KR2k0009_SBCK_106-1a, span: [body, 0, 28157]}
+- ref:
+    seq: 106
+    marker_id: KR2k0009_SBCK_106-1a
+    span:
+    - body
+    - 0
+    - 28157
   label: juan 106
   type: section
   level: 1
-- ref: {seq: 107, marker_id: KR2k0009_SBCK_107-1a, span: [body, 0, 32702]}
+- ref:
+    seq: 107
+    marker_id: KR2k0009_SBCK_107-1a
+    span:
+    - body
+    - 0
+    - 32702
   label: juan 107
   type: section
   level: 1
-- ref: {seq: 108, marker_id: KR2k0009_SBCK_108-1a, span: [body, 0, 55167]}
+- ref:
+    seq: 108
+    marker_id: KR2k0009_SBCK_108-1a
+    span:
+    - body
+    - 0
+    - 55167
   label: juan 108
   type: section
   level: 1
-- ref: {seq: 109, marker_id: KR2k0009_SBCK_109-1a, span: [body, 0, 33776]}
+- ref:
+    seq: 109
+    marker_id: KR2k0009_SBCK_109-1a
+    span:
+    - body
+    - 0
+    - 33776
   label: juan 109
   type: section
   level: 1
-- ref: {seq: 110, marker_id: KR2k0009_SBCK_110-1a, span: [body, 0, 48092]}
+- ref:
+    seq: 110
+    marker_id: KR2k0009_SBCK_110-1a
+    span:
+    - body
+    - 0
+    - 48092
   label: juan 110
   type: section
   level: 1
-- ref: {seq: 111, marker_id: KR2k0009_SBCK_111-1a, span: [body, 0, 52253]}
+- ref:
+    seq: 111
+    marker_id: KR2k0009_SBCK_111-1a
+    span:
+    - body
+    - 0
+    - 52253
   label: juan 111
   type: section
   level: 1
-- ref: {seq: 112, marker_id: KR2k0009_SBCK_112-1a, span: [body, 0, 28118]}
+- ref:
+    seq: 112
+    marker_id: KR2k0009_SBCK_112-1a
+    span:
+    - body
+    - 0
+    - 28118
   label: juan 112
   type: section
   level: 1
-- ref: {seq: 113, marker_id: KR2k0009_SBCK_113-1a, span: [body, 0, 31670]}
+- ref:
+    seq: 113
+    marker_id: KR2k0009_SBCK_113-1a
+    span:
+    - body
+    - 0
+    - 31670
   label: juan 113
   type: section
   level: 1
-- ref: {seq: 114, marker_id: KR2k0009_SBCK_114-1a, span: [body, 0, 50673]}
+- ref:
+    seq: 114
+    marker_id: KR2k0009_SBCK_114-1a
+    span:
+    - body
+    - 0
+    - 50673
   label: juan 114
   type: section
   level: 1
-- ref: {seq: 115, marker_id: KR2k0009_SBCK_115-1a, span: [body, 0, 48693]}
+- ref:
+    seq: 115
+    marker_id: KR2k0009_SBCK_115-1a
+    span:
+    - body
+    - 0
+    - 48693
   label: juan 115
   type: section
   level: 1
-- ref: {seq: 116, marker_id: KR2k0009_SBCK_116-1a, span: [body, 0, 33953]}
+- ref:
+    seq: 116
+    marker_id: KR2k0009_SBCK_116-1a
+    span:
+    - body
+    - 0
+    - 33953
   label: juan 116
   type: section
   level: 1
-- ref: {seq: 117, marker_id: KR2k0009_SBCK_117-1a, span: [body, 0, 38240]}
+- ref:
+    seq: 117
+    marker_id: KR2k0009_SBCK_117-1a
+    span:
+    - body
+    - 0
+    - 38240
   label: juan 117
   type: section
   level: 1
-- ref: {seq: 118, marker_id: KR2k0009_SBCK_118-1a, span: [body, 0, 32311]}
+- ref:
+    seq: 118
+    marker_id: KR2k0009_SBCK_118-1a
+    span:
+    - body
+    - 0
+    - 32311
   label: juan 118
   type: section
   level: 1
-- ref: {seq: 119, marker_id: KR2k0009_SBCK_119-1a, span: [body, 0, 34465]}
+- ref:
+    seq: 119
+    marker_id: KR2k0009_SBCK_119-1a
+    span:
+    - body
+    - 0
+    - 34465
   label: juan 119
   type: section
   level: 1
-- ref: {seq: 120, marker_id: KR2k0009_SBCK_120-1a, span: [body, 0, 42564]}
+- ref:
+    seq: 120
+    marker_id: KR2k0009_SBCK_120-1a
+    span:
+    - body
+    - 0
+    - 42564
   label: juan 120
   type: section
   level: 1
-- ref: {seq: 121, marker_id: KR2k0009_SBCK_121-1a, span: [body, 0, 44529]}
+- ref:
+    seq: 121
+    marker_id: KR2k0009_SBCK_121-1a
+    span:
+    - body
+    - 0
+    - 44529
   label: juan 121
   type: section
   level: 1
-- ref: {seq: 122, marker_id: KR2k0009_SBCK_122-1a, span: [body, 0, 40079]}
+- ref:
+    seq: 122
+    marker_id: KR2k0009_SBCK_122-1a
+    span:
+    - body
+    - 0
+    - 40079
   label: juan 122
   type: section
   level: 1
-- ref: {seq: 123, marker_id: KR2k0009_SBCK_123-1a, span: [body, 0, 35191]}
+- ref:
+    seq: 123
+    marker_id: KR2k0009_SBCK_123-1a
+    span:
+    - body
+    - 0
+    - 35191
   label: juan 123
   type: section
   level: 1
-- ref: {seq: 124, marker_id: KR2k0009_SBCK_124-1a, span: [body, 0, 53057]}
+- ref:
+    seq: 124
+    marker_id: KR2k0009_SBCK_124-1a
+    span:
+    - body
+    - 0
+    - 53057
   label: juan 124
   type: section
   level: 1
-- ref: {seq: 125, marker_id: KR2k0009_SBCK_125-1a, span: [body, 0, 35623]}
+- ref:
+    seq: 125
+    marker_id: KR2k0009_SBCK_125-1a
+    span:
+    - body
+    - 0
+    - 35623
   label: juan 125
   type: section
   level: 1
-- ref: {seq: 126, marker_id: KR2k0009_SBCK_126-1a, span: [body, 0, 54111]}
+- ref:
+    seq: 126
+    marker_id: KR2k0009_SBCK_126-1a
+    span:
+    - body
+    - 0
+    - 54111
   label: juan 126
   type: section
   level: 1
-- ref: {seq: 127, marker_id: KR2k0009_SBCK_127-1a, span: [body, 0, 46627]}
+- ref:
+    seq: 127
+    marker_id: KR2k0009_SBCK_127-1a
+    span:
+    - body
+    - 0
+    - 46627
   label: juan 127
   type: section
   level: 1
-- ref: {seq: 128, marker_id: KR2k0009_SBCK_128-1a, span: [body, 0, 48282]}
+- ref:
+    seq: 128
+    marker_id: KR2k0009_SBCK_128-1a
+    span:
+    - body
+    - 0
+    - 48282
   label: juan 128
   type: section
   level: 1
-- ref: {seq: 129, marker_id: KR2k0009_SBCK_129-1a, span: [body, 0, 44157]}
+- ref:
+    seq: 129
+    marker_id: KR2k0009_SBCK_129-1a
+    span:
+    - body
+    - 0
+    - 44157
   label: juan 129
   type: section
   level: 1
-- ref: {seq: 130, marker_id: KR2k0009_SBCK_130-1a, span: [body, 0, 42661]}
+- ref:
+    seq: 130
+    marker_id: KR2k0009_SBCK_130-1a
+    span:
+    - body
+    - 0
+    - 42661
   label: juan 130
   type: section
   level: 1
-- ref: {seq: 131, marker_id: KR2k0009_SBCK_131-1a, span: [body, 0, 35907]}
+- ref:
+    seq: 131
+    marker_id: KR2k0009_SBCK_131-1a
+    span:
+    - body
+    - 0
+    - 35907
   label: juan 131
   type: section
   level: 1
-- ref: {seq: 132, marker_id: KR2k0009_SBCK_132-1a, span: [body, 0, 40565]}
+- ref:
+    seq: 132
+    marker_id: KR2k0009_SBCK_132-1a
+    span:
+    - body
+    - 0
+    - 40565
   label: juan 132
   type: section
   level: 1
-- ref: {seq: 133, marker_id: KR2k0009_SBCK_133-1a, span: [body, 0, 37397]}
+- ref:
+    seq: 133
+    marker_id: KR2k0009_SBCK_133-1a
+    span:
+    - body
+    - 0
+    - 37397
   label: juan 133
   type: section
   level: 1
-- ref: {seq: 134, marker_id: KR2k0009_SBCK_134-1a, span: [body, 0, 40152]}
+- ref:
+    seq: 134
+    marker_id: KR2k0009_SBCK_134-1a
+    span:
+    - body
+    - 0
+    - 40152
   label: juan 134
   type: section
   level: 1
-- ref: {seq: 135, marker_id: KR2k0009_SBCK_135-1a, span: [body, 0, 38208]}
+- ref:
+    seq: 135
+    marker_id: KR2k0009_SBCK_135-1a
+    span:
+    - body
+    - 0
+    - 38208
   label: juan 135
   type: section
   level: 1
-- ref: {seq: 136, marker_id: KR2k0009_SBCK_136-1a, span: [body, 0, 32798]}
+- ref:
+    seq: 136
+    marker_id: KR2k0009_SBCK_136-1a
+    span:
+    - body
+    - 0
+    - 32798
   label: juan 136
   type: section
   level: 1
-- ref: {seq: 137, marker_id: KR2k0009_SBCK_137-1a, span: [body, 0, 37353]}
+- ref:
+    seq: 137
+    marker_id: KR2k0009_SBCK_137-1a
+    span:
+    - body
+    - 0
+    - 37353
   label: juan 137
   type: section
   level: 1
-- ref: {seq: 138, marker_id: KR2k0009_SBCK_138-1a, span: [body, 0, 35129]}
+- ref:
+    seq: 138
+    marker_id: KR2k0009_SBCK_138-1a
+    span:
+    - body
+    - 0
+    - 35129
   label: juan 138
   type: section
   level: 1
-- ref: {seq: 139, marker_id: KR2k0009_SBCK_139-1a, span: [body, 0, 35714]}
+- ref:
+    seq: 139
+    marker_id: KR2k0009_SBCK_139-1a
+    span:
+    - body
+    - 0
+    - 35714
   label: juan 139
   type: section
   level: 1
-- ref: {seq: 140, marker_id: KR2k0009_SBCK_140-1a, span: [body, 0, 28964]}
+- ref:
+    seq: 140
+    marker_id: KR2k0009_SBCK_140-1a
+    span:
+    - body
+    - 0
+    - 28964
   label: juan 140
   type: section
   level: 1
-- ref: {seq: 141, marker_id: KR2k0009_SBCK_141-1a, span: [body, 0, 41797]}
+- ref:
+    seq: 141
+    marker_id: KR2k0009_SBCK_141-1a
+    span:
+    - body
+    - 0
+    - 41797
   label: juan 141
   type: section
   level: 1
-- ref: {seq: 142, marker_id: KR2k0009_SBCK_142-1a, span: [body, 0, 43210]}
+- ref:
+    seq: 142
+    marker_id: KR2k0009_SBCK_142-1a
+    span:
+    - body
+    - 0
+    - 43210
   label: juan 142
   type: section
   level: 1
-- ref: {seq: 143, marker_id: KR2k0009_SBCK_143-1a, span: [body, 0, 37699]}
+- ref:
+    seq: 143
+    marker_id: KR2k0009_SBCK_143-1a
+    span:
+    - body
+    - 0
+    - 37699
   label: juan 143
   type: section
   level: 1
-- ref: {seq: 144, marker_id: KR2k0009_SBCK_144-1a, span: [body, 0, 36147]}
+- ref:
+    seq: 144
+    marker_id: KR2k0009_SBCK_144-1a
+    span:
+    - body
+    - 0
+    - 36147
   label: juan 144
   type: section
   level: 1
-- ref: {seq: 145, marker_id: KR2k0009_SBCK_145-1a, span: [body, 0, 45375]}
+- ref:
+    seq: 145
+    marker_id: KR2k0009_SBCK_145-1a
+    span:
+    - body
+    - 0
+    - 45375
   label: juan 145
   type: section
   level: 1
-- ref: {seq: 146, marker_id: KR2k0009_SBCK_146-1a, span: [body, 0, 40661]}
+- ref:
+    seq: 146
+    marker_id: KR2k0009_SBCK_146-1a
+    span:
+    - body
+    - 0
+    - 40661
   label: juan 146
   type: section
   level: 1
-- ref: {seq: 147, marker_id: KR2k0009_SBCK_147-1a, span: [body, 0, 42138]}
+- ref:
+    seq: 147
+    marker_id: KR2k0009_SBCK_147-1a
+    span:
+    - body
+    - 0
+    - 42138
   label: juan 147
   type: section
   level: 1
-- ref: {seq: 148, marker_id: KR2k0009_SBCK_148-1a, span: [body, 0, 35295]}
+- ref:
+    seq: 148
+    marker_id: KR2k0009_SBCK_148-1a
+    span:
+    - body
+    - 0
+    - 35295
   label: juan 148
   type: section
   level: 1
-- ref: {seq: 149, marker_id: KR2k0009_SBCK_149-1a, span: [body, 0, 39487]}
+- ref:
+    seq: 149
+    marker_id: KR2k0009_SBCK_149-1a
+    span:
+    - body
+    - 0
+    - 39487
   label: juan 149
   type: section
   level: 1
-- ref: {seq: 150, marker_id: KR2k0009_SBCK_150-1a, span: [body, 0, 37180]}
+- ref:
+    seq: 150
+    marker_id: KR2k0009_SBCK_150-1a
+    span:
+    - body
+    - 0
+    - 37180
   label: juan 150
   type: section
   level: 1
-- ref: {seq: 151, marker_id: KR2k0009_SBCK_151-1a, span: [body, 0, 38129]}
+- ref:
+    seq: 151
+    marker_id: KR2k0009_SBCK_151-1a
+    span:
+    - body
+    - 0
+    - 38129
   label: juan 151
   type: section
   level: 1
-- ref: {seq: 152, marker_id: KR2k0009_SBCK_152-1a, span: [body, 0, 31448]}
+- ref:
+    seq: 152
+    marker_id: KR2k0009_SBCK_152-1a
+    span:
+    - body
+    - 0
+    - 31448
   label: juan 152
   type: section
   level: 1
-- ref: {seq: 153, marker_id: KR2k0009_SBCK_153-1a, span: [body, 0, 27337]}
+- ref:
+    seq: 153
+    marker_id: KR2k0009_SBCK_153-1a
+    span:
+    - body
+    - 0
+    - 27337
   label: juan 153
   type: section
   level: 1
-- ref: {seq: 154, marker_id: KR2k0009_SBCK_154-1a, span: [body, 0, 38493]}
+- ref:
+    seq: 154
+    marker_id: KR2k0009_SBCK_154-1a
+    span:
+    - body
+    - 0
+    - 38493
   label: juan 154
   type: section
   level: 1
-- ref: {seq: 155, marker_id: KR2k0009_SBCK_155-1a, span: [body, 0, 55139]}
+- ref:
+    seq: 155
+    marker_id: KR2k0009_SBCK_155-1a
+    span:
+    - body
+    - 0
+    - 55139
   label: juan 155
   type: section
   level: 1
-- ref: {seq: 156, marker_id: KR2k0009_SBCK_156-1a, span: [body, 0, 41890]}
+- ref:
+    seq: 156
+    marker_id: KR2k0009_SBCK_156-1a
+    span:
+    - body
+    - 0
+    - 41890
   label: juan 156
   type: section
   level: 1
-- ref: {seq: 157, marker_id: KR2k0009_SBCK_157-1a, span: [body, 0, 30691]}
+- ref:
+    seq: 157
+    marker_id: KR2k0009_SBCK_157-1a
+    span:
+    - body
+    - 0
+    - 30691
   label: juan 157
   type: section
   level: 1
-- ref: {seq: 158, marker_id: KR2k0009_SBCK_158-1a, span: [body, 0, 30908]}
+- ref:
+    seq: 158
+    marker_id: KR2k0009_SBCK_158-1a
+    span:
+    - body
+    - 0
+    - 30908
   label: juan 158
   type: section
   level: 1
-- ref: {seq: 159, marker_id: KR2k0009_SBCK_159-1a, span: [body, 0, 32246]}
+- ref:
+    seq: 159
+    marker_id: KR2k0009_SBCK_159-1a
+    span:
+    - body
+    - 0
+    - 32246
   label: juan 159
   type: section
   level: 1
-- ref: {seq: 160, marker_id: KR2k0009_SBCK_160-1a, span: [body, 0, 33187]}
+- ref:
+    seq: 160
+    marker_id: KR2k0009_SBCK_160-1a
+    span:
+    - body
+    - 0
+    - 33187
   label: juan 160
   type: section
   level: 1
-- ref: {seq: 161, marker_id: KR2k0009_SBCK_161-1a, span: [body, 0, 39873]}
+- ref:
+    seq: 161
+    marker_id: KR2k0009_SBCK_161-1a
+    span:
+    - body
+    - 0
+    - 39873
   label: juan 161
   type: section
   level: 1
-- ref: {seq: 162, marker_id: KR2k0009_SBCK_162-1a, span: [body, 0, 39116]}
+- ref:
+    seq: 162
+    marker_id: KR2k0009_SBCK_162-1a
+    span:
+    - body
+    - 0
+    - 39116
   label: juan 162
   type: section
   level: 1
-- ref: {seq: 163, marker_id: KR2k0009_SBCK_163-1a, span: [body, 0, 23871]}
+- ref:
+    seq: 163
+    marker_id: KR2k0009_SBCK_163-1a
+    span:
+    - body
+    - 0
+    - 23871
   label: juan 163
   type: section
   level: 1
-- ref: {seq: 164, marker_id: KR2k0009_SBCK_164-1a, span: [body, 0, 42836]}
+- ref:
+    seq: 164
+    marker_id: KR2k0009_SBCK_164-1a
+    span:
+    - body
+    - 0
+    - 42836
   label: juan 164
   type: section
   level: 1
-- ref: {seq: 165, marker_id: KR2k0009_SBCK_165-1a, span: [body, 0, 46813]}
+- ref:
+    seq: 165
+    marker_id: KR2k0009_SBCK_165-1a
+    span:
+    - body
+    - 0
+    - 46813
   label: juan 165
   type: section
   level: 1
-- ref: {seq: 166, marker_id: KR2k0009_SBCK_166-1a, span: [body, 0, 58118]}
+- ref:
+    seq: 166
+    marker_id: KR2k0009_SBCK_166-1a
+    span:
+    - body
+    - 0
+    - 58118
   label: juan 166
   type: section
   level: 1
-- ref: {seq: 167, marker_id: KR2k0009_SBCK_167-1a, span: [body, 0, 44585]}
+- ref:
+    seq: 167
+    marker_id: KR2k0009_SBCK_167-1a
+    span:
+    - body
+    - 0
+    - 44585
   label: juan 167
   type: section
   level: 1
-- ref: {seq: 168, marker_id: KR2k0009_SBCK_168-1a, span: [body, 0, 36180]}
+- ref:
+    seq: 168
+    marker_id: KR2k0009_SBCK_168-1a
+    span:
+    - body
+    - 0
+    - 36180
   label: juan 168
   type: section
   level: 1
-- ref: {seq: 169, marker_id: KR2k0009_SBCK_169-1a, span: [body, 0, 28147]}
+- ref:
+    seq: 169
+    marker_id: KR2k0009_SBCK_169-1a
+    span:
+    - body
+    - 0
+    - 28147
   label: juan 169
   type: section
   level: 1
-- ref: {seq: 170, marker_id: KR2k0009_SBCK_170-1a, span: [body, 0, 32708]}
+- ref:
+    seq: 170
+    marker_id: KR2k0009_SBCK_170-1a
+    span:
+    - body
+    - 0
+    - 32708
   label: juan 170
   type: section
   level: 1
-- ref: {seq: 171, marker_id: KR2k0009_SBCK_171-1a, span: [body, 0, 26814]}
+- ref:
+    seq: 171
+    marker_id: KR2k0009_SBCK_171-1a
+    span:
+    - body
+    - 0
+    - 26814
   label: juan 171
   type: section
   level: 1
-- ref: {seq: 172, marker_id: KR2k0009_SBCK_172-1a, span: [body, 0, 34248]}
+- ref:
+    seq: 172
+    marker_id: KR2k0009_SBCK_172-1a
+    span:
+    - body
+    - 0
+    - 34248
   label: juan 172
   type: section
   level: 1
-- ref: {seq: 173, marker_id: KR2k0009_SBCK_173-1a, span: [body, 0, 36590]}
+- ref:
+    seq: 173
+    marker_id: KR2k0009_SBCK_173-1a
+    span:
+    - body
+    - 0
+    - 36590
   label: juan 173
   type: section
   level: 1
-- ref: {seq: 174, marker_id: KR2k0009_SBCK_174-1a, span: [body, 0, 35404]}
+- ref:
+    seq: 174
+    marker_id: KR2k0009_SBCK_174-1a
+    span:
+    - body
+    - 0
+    - 35404
   label: juan 174
   type: section
   level: 1
-- ref: {seq: 175, marker_id: KR2k0009_SBCK_175-1a, span: [body, 0, 38215]}
+- ref:
+    seq: 175
+    marker_id: KR2k0009_SBCK_175-1a
+    span:
+    - body
+    - 0
+    - 38215
   label: juan 175
   type: section
   level: 1
-- ref: {seq: 176, marker_id: KR2k0009_SBCK_176-1a, span: [body, 0, 29252]}
+- ref:
+    seq: 176
+    marker_id: KR2k0009_SBCK_176-1a
+    span:
+    - body
+    - 0
+    - 29252
   label: juan 176
   type: section
   level: 1
-- ref: {seq: 177, marker_id: KR2k0009_SBCK_177-1a, span: [body, 0, 34100]}
+- ref:
+    seq: 177
+    marker_id: KR2k0009_SBCK_177-1a
+    span:
+    - body
+    - 0
+    - 34100
   label: juan 177
   type: section
   level: 1
-- ref: {seq: 178, marker_id: KR2k0009_SBCK_178-1a, span: [body, 0, 28095]}
+- ref:
+    seq: 178
+    marker_id: KR2k0009_SBCK_178-1a
+    span:
+    - body
+    - 0
+    - 28095
   label: juan 178
   type: section
   level: 1
-- ref: {seq: 179, marker_id: KR2k0009_SBCK_179-1a, span: [body, 0, 39612]}
+- ref:
+    seq: 179
+    marker_id: KR2k0009_SBCK_179-1a
+    span:
+    - body
+    - 0
+    - 39612
   label: juan 179
   type: section
   level: 1
-- ref: {seq: 180, marker_id: KR2k0009_SBCK_180-1a, span: [body, 0, 40309]}
+- ref:
+    seq: 180
+    marker_id: KR2k0009_SBCK_180-1a
+    span:
+    - body
+    - 0
+    - 40309
   label: juan 180
   type: section
   level: 1
-- ref: {seq: 181, marker_id: KR2k0009_SBCK_181-1a, span: [body, 0, 33658]}
+- ref:
+    seq: 181
+    marker_id: KR2k0009_SBCK_181-1a
+    span:
+    - body
+    - 0
+    - 33658
   label: juan 181
   type: section
   level: 1
-- ref: {seq: 182, marker_id: KR2k0009_SBCK_182-1a, span: [body, 0, 31893]}
+- ref:
+    seq: 182
+    marker_id: KR2k0009_SBCK_182-1a
+    span:
+    - body
+    - 0
+    - 31893
   label: juan 182
   type: section
   level: 1
-- ref: {seq: 183, marker_id: KR2k0009_SBCK_183-1a, span: [body, 0, 23513]}
+- ref:
+    seq: 183
+    marker_id: KR2k0009_SBCK_183-1a
+    span:
+    - body
+    - 0
+    - 23513
   label: juan 183
   type: section
   level: 1
-- ref: {seq: 184, marker_id: KR2k0009_SBCK_184-1a, span: [body, 0, 26605]}
+- ref:
+    seq: 184
+    marker_id: KR2k0009_SBCK_184-1a
+    span:
+    - body
+    - 0
+    - 26605
   label: juan 184
   type: section
   level: 1
-- ref: {seq: 185, marker_id: KR2k0009_SBCK_185-1a, span: [body, 0, 46482]}
+- ref:
+    seq: 185
+    marker_id: KR2k0009_SBCK_185-1a
+    span:
+    - body
+    - 0
+    - 46482
   label: juan 185
   type: section
   level: 1
-- ref: {seq: 186, marker_id: KR2k0009_SBCK_186-1a, span: [body, 0, 38517]}
+- ref:
+    seq: 186
+    marker_id: KR2k0009_SBCK_186-1a
+    span:
+    - body
+    - 0
+    - 38517
   label: juan 186
   type: section
   level: 1
-- ref: {seq: 187, marker_id: KR2k0009_SBCK_187-1a, span: [body, 0, 31069]}
+- ref:
+    seq: 187
+    marker_id: KR2k0009_SBCK_187-1a
+    span:
+    - body
+    - 0
+    - 31069
   label: juan 187
   type: section
   level: 1
-- ref: {seq: 188, marker_id: KR2k0009_SBCK_188-1a, span: [body, 0, 26463]}
+- ref:
+    seq: 188
+    marker_id: KR2k0009_SBCK_188-1a
+    span:
+    - body
+    - 0
+    - 26463
   label: juan 188
   type: section
   level: 1
-- ref: {seq: 189, marker_id: KR2k0009_SBCK_189-1a, span: [body, 0, 26171]}
+- ref:
+    seq: 189
+    marker_id: KR2k0009_SBCK_189-1a
+    span:
+    - body
+    - 0
+    - 26171
   label: juan 189
   type: section
   level: 1
-- ref: {seq: 190, marker_id: KR2k0009_SBCK_190-1a, span: [body, 0, 34025]}
+- ref:
+    seq: 190
+    marker_id: KR2k0009_SBCK_190-1a
+    span:
+    - body
+    - 0
+    - 34025
   label: juan 190
   type: section
   level: 1
-- ref: {seq: 191, marker_id: KR2k0009_SBCK_191-1a, span: [body, 0, 26360]}
+- ref:
+    seq: 191
+    marker_id: KR2k0009_SBCK_191-1a
+    span:
+    - body
+    - 0
+    - 26360
   label: juan 191
   type: section
   level: 1
-- ref: {seq: 192, marker_id: KR2k0009_SBCK_192-1a, span: [body, 0, 22758]}
+- ref:
+    seq: 192
+    marker_id: KR2k0009_SBCK_192-1a
+    span:
+    - body
+    - 0
+    - 22758
   label: juan 192
   type: section
   level: 1
-- ref: {seq: 193, marker_id: KR2k0009_SBCK_193-1a, span: [body, 0, 11634]}
+- ref:
+    seq: 193
+    marker_id: KR2k0009_SBCK_193-1a
+    span:
+    - body
+    - 0
+    - 11634
   label: juan 193
   type: section
   level: 1
-- ref: {seq: 194, marker_id: KR2k0009_SBCK_194-1a, span: [body, 0, 28527]}
+- ref:
+    seq: 194
+    marker_id: KR2k0009_SBCK_194-1a
+    span:
+    - body
+    - 0
+    - 28527
   label: juan 194
   type: section
   level: 1
-- ref: {seq: 195, marker_id: KR2k0009_SBCK_195-1a, span: [body, 0, 23870]}
+- ref:
+    seq: 195
+    marker_id: KR2k0009_SBCK_195-1a
+    span:
+    - body
+    - 0
+    - 23870
   label: juan 195
   type: section
   level: 1
-- ref: {seq: 196, marker_id: KR2k0009_SBCK_196-1a, span: [body, 0, 27380]}
+- ref:
+    seq: 196
+    marker_id: KR2k0009_SBCK_196-1a
+    span:
+    - body
+    - 0
+    - 27380
   label: juan 196
   type: section
   level: 1
-- ref: {seq: 197, marker_id: KR2k0009_SBCK_197-1a, span: [body, 0, 45074]}
+- ref:
+    seq: 197
+    marker_id: KR2k0009_SBCK_197-1a
+    span:
+    - body
+    - 0
+    - 45074
   label: juan 197
   type: section
   level: 1
-- ref: {seq: 198, marker_id: KR2k0009_SBCK_198-1a, span: [body, 0, 35358]}
+- ref:
+    seq: 198
+    marker_id: KR2k0009_SBCK_198-1a
+    span:
+    - body
+    - 0
+    - 35358
   label: juan 198
   type: section
   level: 1
-- ref: {seq: 199, marker_id: KR2k0009_SBCK_199-1a, span: [body, 0, 51925]}
+- ref:
+    seq: 199
+    marker_id: KR2k0009_SBCK_199-1a
+    span:
+    - body
+    - 0
+    - 51925
   label: juan 199
   type: section
   level: 1
-- ref: {seq: 200, marker_id: KR2k0009_SBCK_200-1a, span: [body, 0, 27354]}
+- ref:
+    seq: 200
+    marker_id: KR2k0009_SBCK_200-1a
+    span:
+    - body
+    - 0
+    - 27354
   label: juan 200
   type: section
   level: 1
-- ref: {seq: 201, marker_id: KR2k0009_SBCK_201-1a, span: [body, 0, 0]}
+- ref:
+    seq: 201
+    marker_id: KR2k0009_SBCK_201-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 201
   type: section
   level: 1
-- ref: {seq: 202, marker_id: KR2k0009_SBCK_202-1a, span: [body, 0, 0]}
+- ref:
+    seq: 202
+    marker_id: KR2k0009_SBCK_202-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 202
   type: section
   level: 1
-- ref: {seq: 203, marker_id: KR2k0009_SBCK_203-1a, span: [body, 0, 0]}
+- ref:
+    seq: 203
+    marker_id: KR2k0009_SBCK_203-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 203
   type: section
   level: 1
-- ref: {seq: 204, marker_id: KR2k0009_SBCK_204-1a, span: [body, 0, 0]}
+- ref:
+    seq: 204
+    marker_id: KR2k0009_SBCK_204-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 204
   type: section
   level: 1
-- ref: {seq: 205, marker_id: KR2k0009_SBCK_205-1a, span: [body, 0, 0]}
+- ref:
+    seq: 205
+    marker_id: KR2k0009_SBCK_205-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 205
   type: section
   level: 1
-- ref: {seq: 206, marker_id: KR2k0009_SBCK_206-1a, span: [body, 0, 0]}
+- ref:
+    seq: 206
+    marker_id: KR2k0009_SBCK_206-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 206
   type: section
   level: 1
-- ref: {seq: 207, marker_id: KR2k0009_SBCK_207-1a, span: [body, 0, 0]}
+- ref:
+    seq: 207
+    marker_id: KR2k0009_SBCK_207-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 207
   type: section
   level: 1
-- ref: {seq: 208, marker_id: KR2k0009_SBCK_208-1a, span: [body, 0, 0]}
+- ref:
+    seq: 208
+    marker_id: KR2k0009_SBCK_208-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 208
   type: section
   level: 1
-- ref: {seq: 209, marker_id: KR2k0009_SBCK_209-1a, span: [body, 0, 0]}
+- ref:
+    seq: 209
+    marker_id: KR2k0009_SBCK_209-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 209
   type: section
   level: 1
-- ref: {seq: 210, marker_id: KR2k0009_SBCK_210-1a, span: [body, 0, 0]}
+- ref:
+    seq: 210
+    marker_id: KR2k0009_SBCK_210-1a
+    span:
+    - body
+    - 0
+    - 0
   label: juan 210
   type: section
   level: 1
